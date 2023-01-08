@@ -4,4 +4,4 @@
 
 I'm studying a Bachelor of Computer Science (Advanced) at the University of Adelaide.
 
-Currently, I'm enrolled in RSP, an intensive study program aimed at equipping students with the skills needed to thrive in real-world software engineering environments.
+Currently, I'm enrolled in RSP, an intensive volunteer-led coding bootcamp aimed at preparing students to pass big tech interviews. 
